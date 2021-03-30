@@ -1,0 +1,5 @@
+[app]
+timezone = "Asia/Shanghai"
+host = ":8090"
+gzip = true
+debug = false
